@@ -3,7 +3,7 @@ The goal of this project is to predict the popularity of newly released songs wh
 
 outline：
 
-1. Project Description & Motivation**
+## **1. Project Description & Motivation**
 
 ### **Problem Context**
 
@@ -22,7 +22,6 @@ outline：
 * Increase user satisfaction and retention
 * Optimize content distribution and promotion decisions
 
----
 
 ## **2. Data & Learning Problem**
 
@@ -49,7 +48,6 @@ outline：
 * Highly skewed popularity distribution
 * Noise introduced by implicit feedback
 
----
 
 ## **3. Methodology**
 
@@ -75,7 +73,6 @@ outline：
 * Popularity prediction: RMSE / AUC / F1-score
 * Recommendation: Precision@K / Recall@K
 
----
 
 ## **4. Results & Discussion**
 
@@ -92,8 +89,6 @@ outline：
 
 * Inability to fully capture short-term changes in user interests
 * Evaluation based on offline data only
-
----
 
 ## **5. Conclusion & Future Work**
 
